@@ -27,10 +27,14 @@ advent-of-code-2025/
 - **Part 1**: Count the number of times the dial points at 0 after each rotation
 - **Part 2**: Count every time the dial passes through 0 during any rotation
 
+  [Solution (❛ ֊ ❛)](https://github.com/lassiecoder/advent-of-code-2025/blob/main/day_1/solution.js)
+
 ### ☃︎ Day 2: Gift Shop [⤷ ˎˊ˗](https://adventofcode.com/2025/day/2)
 
 - **Part 1**: Find invalid product IDs that are a pattern repeated exactly twice
 - **Part 2**: Find invalid product IDs where any sequence of digits is repeated at least twice
+
+  [Solution (❛ ֊ ❛)](https://github.com/lassiecoder/advent-of-code-2025/blob/main/day_2/solution.js)
 
 ## How to Run
 
