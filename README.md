@@ -36,6 +36,13 @@ advent-of-code-2025/
 
   [Solution (❛ ֊ ❛)](https://github.com/lassiecoder/advent-of-code-2025/blob/main/day_2/solution.js)
 
+### ☃︎ Day 3: Lobby [⤷ ˎˊ˗](https://adventofcode.com/2025/day/3)
+
+- **Part 1**: Find the maximum joltage by selecting exactly 2 batteries from each bank
+- **Part 2**: Find the maximum joltage by selecting exactly 12 batteries from each bank (while maintaining digit order)
+
+  [Solution (❛ ֊ ❛)](https://github.com/lassiecoder/advent-of-code-2025/blob/main/day_3/solution.js)
+
 ## How to Run
 
 Each day has its own solution file and input file. To run a solution:
