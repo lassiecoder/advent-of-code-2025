@@ -43,6 +43,13 @@ advent-of-code-2025/
 
   [Solution (❛ ֊ ❛)](https://github.com/lassiecoder/advent-of-code-2025/blob/main/day_3/solution.js)
 
+### 🎄 Day 4: Printing Department [⤷ ˎˊ˗](https://adventofcode.com/2025/day/4)
+
+- **Part 1**: Count rolls of paper (@) that can be accessed by a forklift (fewer than 4 adjacent rolls)
+- **Part 2**: Simulate the removal process and count the total number of rolls that can be removed
+
+  [Solution (❛ ֊ ❛)](https://github.com/lassiecoder/advent-of-code-2025/blob/main/day_4/solution.js)
+
 ## How to Run
 
 Each day has its own solution file and input file. To run a solution:
