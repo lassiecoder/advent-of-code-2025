@@ -50,6 +50,13 @@ advent-of-code-2025/
 
   [Solution (❛ ֊ ❛)](https://github.com/lassiecoder/advent-of-code-2025/blob/main/day_4/solution.js)
 
+### ❄️ Day 5: Cafeteria [⤷ ˎˊ˗](https://adventofcode.com/2025/day/5)
+
+- **Part 1**: Count how many available ingredient IDs fall within fresh ingredient ID ranges
+- **Part 2**: Merge overlapping ranges and count total unique ingredient IDs considered fresh
+
+  [Solution (❛ ֊ ❛)](https://github.com/lassiecoder/advent-of-code-2025/blob/main/day_5/solution.js)
+
 ## How to Run
 
 Each day has its own solution file and input file. To run a solution:
