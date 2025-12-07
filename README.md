@@ -57,6 +57,20 @@ advent-of-code-2025/
 
   [Solution (❛ ֊ ❛)](https://github.com/lassiecoder/advent-of-code-2025/blob/main/day_5/solution.js)
 
+### 🍽️ Day 6: Trash Compactor [⤷ ˎˊ˗](https://adventofcode.com/2025/day/6)
+
+- **Part 1**: Parse vertically stacked math problems and solve them (+ or \*)
+- **Part 2**: Read problems right-to-left (column by column) and solve them
+
+  [Solution (❛ ֊ ❛)](https://github.com/lassiecoder/advent-of-code-2025/blob/main/day_6/solution.js)
+
+### 🔬 Day 7: Laboratories [⤷ ˎˊ˗](https://adventofcode.com/2025/day/7)
+
+- **Part 1**: Count how many times tachyon beams are split by splitters (^)
+- **Part 2**: Use dynamic programming to count total timelines (particles reaching bottom)
+
+  [Solution (❛ ֊ ❛)](https://github.com/lassiecoder/advent-of-code-2025/blob/main/day_7/solution.js)
+
 ## How to Run
 
 Each day has its own solution file and input file. To run a solution:
